@@ -1,0 +1,18 @@
+{
+	"name" : "DLC Buy Removal",
+	"description" : "Remove the DLC purchase in the Menu",
+	"author" : "LMauc",
+	"version" : "1",
+	"priority" : "0",
+	"blt_version" : 2,
+	"hooks" : [
+		{ 
+			"hook_id" : "lib/managers/menu/menucomponentmanager", 
+			"script_path" : "menucomponentmanager.lua" 
+		},
+		{ 
+			"hook_id" : "lib/managers/menumanager", 
+			"script_path" : "menumanager.lua" 
+		}
+	]
+}

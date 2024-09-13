@@ -2,7 +2,7 @@
 	"name" : "DLC Buy Removal",
 	"description" : "Remove the DLC purchase in the Menu",
 	"author" : "LMauc",
-	"version" : "3",
+	"version" : "4",
 	"priority" : "0",
 	"blt_version" : 2,
 	"hooks" : [

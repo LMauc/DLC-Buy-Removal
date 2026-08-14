@@ -3,6 +3,7 @@ NewsFeedGui.PRESENT_TIME = 0
 NewsFeedGui.SUSTAIN_TIME = 0
 NewsFeedGui.REMOVE_TIME = 0
 NewsFeedGui.MAX_NEWS = 0
+NewsFeedGui.BOTTOM_OFFSET = 0
 function NewsFeedGui:init() end
 function NewsFeedGui:update() end
 function NewsFeedGui:make_news_request() end
